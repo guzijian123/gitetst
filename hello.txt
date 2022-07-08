@@ -1,3 +1,4 @@
 hello git 111111
 hello master test
 hello agin fix-text merge
+remote add test
